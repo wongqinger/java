@@ -5,6 +5,8 @@ import java.util.List;
 
 /**
  * Created by 11059 on 2018/3/19.
+ * http://www.jb51.net/article/133344.htm
+ * http://blog.csdn.net/renxingzhadan/article/details/51760619
  */
 public class Palindrome {
     public static void main(String[] args) {
